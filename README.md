@@ -6,7 +6,7 @@
 - 💞️ I’m developing an app myself to publish to Play Store
 
 
-<H1>Excited technologies</H1>
+<H1>Mobile Technology</H1>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,gcp,figma,git,idea,ktor,mongodb,postman,stackoverflow&theme=light" />
