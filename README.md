@@ -1,16 +1,19 @@
-### Hi there 👋
+<H1>Hello Android</H1>
 
-<!--
-**SaitamaCodeAndroid/SaitamaCodeAndroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m Nguyen Hoang
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Software Engineer
+- 💞️ I’m developing an app myself to publish to Play Store
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<H1>Excited technologies</H1>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,gcp,figma,git,idea,ktor,mongodb,postman,stackoverflow&theme=light" />
+  </a>
+</p>
+
+<!---
+HoangNguyenHuy1220/HoangNguyenHuy1220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
